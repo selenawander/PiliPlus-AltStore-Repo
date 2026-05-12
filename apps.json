@@ -8,7 +8,7 @@
   "apps": [
     {
       "name": "PiliPlus",
-      "bundleIdentifier": "com.bggRGjQaUbCoE.PiliPlus",
+      "bundleIdentifier": "com.example.piliplus",
       "developerName": "bggRGjQaUbCoE",
       "subtitle": "Latest PiliPlus release",
       "localizedDescription": "PiliPlus iOS app builds from GitHub releases",
@@ -1051,7 +1051,7 @@
       "date": "2026-05-10",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.7.1"
     },
     {
@@ -1061,7 +1061,7 @@
       "date": "2026-05-05",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.7"
     },
     {
@@ -1071,7 +1071,7 @@
       "date": "2026-04-30",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.6"
     },
     {
@@ -1081,7 +1081,7 @@
       "date": "2026-04-25",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.5"
     },
     {
@@ -1091,7 +1091,7 @@
       "date": "2026-04-14",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.4"
     },
     {
@@ -1101,7 +1101,7 @@
       "date": "2026-04-11",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.3.2"
     },
     {
@@ -1111,7 +1111,7 @@
       "date": "2026-04-09",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.3.1"
     },
     {
@@ -1121,7 +1121,7 @@
       "date": "2026-04-08",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.3"
     },
     {
@@ -1131,7 +1131,7 @@
       "date": "2026-03-31",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.2"
     },
     {
@@ -1141,7 +1141,7 @@
       "date": "2026-03-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.1.1"
     },
     {
@@ -1151,7 +1151,7 @@
       "date": "2026-03-14",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.1"
     },
     {
@@ -1161,7 +1161,7 @@
       "date": "2026-03-04",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.0.1"
     },
     {
@@ -1171,7 +1171,7 @@
       "date": "2026-03-03",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.0"
     },
     {
@@ -1181,7 +1181,7 @@
       "date": "2026-02-07",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.6"
     },
     {
@@ -1191,7 +1191,7 @@
       "date": "2026-01-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.7"
     },
     {
@@ -1201,7 +1201,7 @@
       "date": "2026-01-26",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.6"
     },
     {
@@ -1211,7 +1211,7 @@
       "date": "2026-01-25",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.5"
     },
     {
@@ -1221,7 +1221,7 @@
       "date": "2026-01-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.4"
     },
     {
@@ -1231,7 +1231,7 @@
       "date": "2026-01-07",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.3"
     },
     {
@@ -1241,7 +1241,7 @@
       "date": "2026-01-03",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.2"
     },
     {
@@ -1251,7 +1251,7 @@
       "date": "2025-12-10",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5.1"
     },
     {
@@ -1261,7 +1261,7 @@
       "date": "2025-11-30",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5"
     },
     {
@@ -1271,7 +1271,7 @@
       "date": "2025-11-23",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre8"
     },
     {
@@ -1281,7 +1281,7 @@
       "date": "2025-11-22",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre7"
     },
     {
@@ -1291,7 +1291,7 @@
       "date": "2025-11-17",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre6"
     },
     {
@@ -1301,7 +1301,7 @@
       "date": "2025-11-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre5"
     },
     {
@@ -1311,7 +1311,7 @@
       "date": "2025-11-14",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre4"
     },
     {
@@ -1321,7 +1321,7 @@
       "date": "2025-11-12",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre3"
     },
     {
@@ -1331,7 +1331,7 @@
       "date": "2025-11-12",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre2"
     },
     {
@@ -1341,7 +1341,7 @@
       "date": "2025-11-10",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.5-pre"
     },
     {
@@ -1351,7 +1351,7 @@
       "date": "2025-10-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.17"
     },
     {
@@ -1361,7 +1361,7 @@
       "date": "2025-10-27",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.16"
     },
     {
@@ -1371,7 +1371,7 @@
       "date": "2025-10-24",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.15"
     },
     {
@@ -1381,7 +1381,7 @@
       "date": "2025-10-21",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.14"
     },
     {
@@ -1391,7 +1391,7 @@
       "date": "2025-10-19",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.13"
     },
     {
@@ -1401,7 +1401,7 @@
       "date": "2025-10-17",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.12"
     },
     {
@@ -1411,7 +1411,7 @@
       "date": "2025-10-16",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.11"
     },
     {
@@ -1421,7 +1421,7 @@
       "date": "2025-10-13",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.10"
     },
     {
@@ -1431,7 +1431,7 @@
       "date": "2025-10-05",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.8"
     },
     {
@@ -1441,7 +1441,7 @@
       "date": "2025-10-02",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.7"
     },
     {
@@ -1451,7 +1451,7 @@
       "date": "2025-09-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.6"
     },
     {
@@ -1461,7 +1461,7 @@
       "date": "2025-09-25",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.5"
     },
     {
@@ -1471,7 +1471,7 @@
       "date": "2025-09-10",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.4"
     },
     {
@@ -1481,7 +1481,7 @@
       "date": "2025-08-29",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.3"
     },
     {
@@ -1491,7 +1491,7 @@
       "date": "2025-08-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.2"
     },
     {
@@ -1501,7 +1501,7 @@
       "date": "2025-08-24",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4.1"
     },
     {
@@ -1511,7 +1511,7 @@
       "date": "2025-08-23",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.4"
     },
     {
@@ -1521,7 +1521,7 @@
       "date": "2025-07-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.40-fix"
     },
     {
@@ -1531,7 +1531,7 @@
       "date": "2025-07-11",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.40"
     },
     {
@@ -1541,7 +1541,7 @@
       "date": "2025-07-06",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.39-fix3"
     },
     {
@@ -1551,7 +1551,7 @@
       "date": "2025-07-06",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.39-fix2"
     },
     {
@@ -1561,7 +1561,7 @@
       "date": "2025-07-02",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.39-fix"
     },
     {
@@ -1571,7 +1571,7 @@
       "date": "2025-07-01",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.39"
     },
     {
@@ -1581,7 +1581,7 @@
       "date": "2025-06-14",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.38"
     },
     {
@@ -1591,7 +1591,7 @@
       "date": "2025-06-01",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.37-fix2"
     },
     {
@@ -1601,7 +1601,7 @@
       "date": "2025-06-01",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.37-fix"
     },
     {
@@ -1611,7 +1611,7 @@
       "date": "2025-06-01",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.37"
     },
     {
@@ -1621,7 +1621,7 @@
       "date": "2025-05-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.36"
     },
     {
@@ -1631,7 +1631,7 @@
       "date": "2025-05-20",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.35"
     },
     {
@@ -1641,7 +1641,7 @@
       "date": "2025-05-08",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.34"
     },
     {
@@ -1651,7 +1651,7 @@
       "date": "2025-04-30",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.33"
     },
     {
@@ -1661,7 +1661,7 @@
       "date": "2025-04-23",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.32"
     },
     {
@@ -1671,7 +1671,7 @@
       "date": "2025-04-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.31"
     },
     {
@@ -1681,7 +1681,7 @@
       "date": "2025-04-09",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.30"
     },
     {
@@ -1691,7 +1691,7 @@
       "date": "2025-04-05",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.29"
     },
     {
@@ -1701,7 +1701,7 @@
       "date": "2025-04-03",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.28"
     },
     {
@@ -1711,7 +1711,7 @@
       "date": "2025-04-03",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.27"
     },
     {
@@ -1721,7 +1721,7 @@
       "date": "2025-03-29",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.26"
     },
     {
@@ -1731,7 +1731,7 @@
       "date": "2025-03-27",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.25"
     },
     {
@@ -1741,7 +1741,7 @@
       "date": "2025-03-24",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.24"
     },
     {
@@ -1751,7 +1751,7 @@
       "date": "2025-03-23",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.23"
     },
     {
@@ -1761,7 +1761,7 @@
       "date": "2025-03-13",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.22"
     },
     {
@@ -1771,7 +1771,7 @@
       "date": "2025-03-07",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.21"
     },
     {
@@ -1781,7 +1781,7 @@
       "date": "2025-03-01",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.20"
     },
     {
@@ -1791,7 +1791,7 @@
       "date": "2025-02-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.19"
     },
     {
@@ -1801,7 +1801,7 @@
       "date": "2025-02-27",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.18"
     },
     {
@@ -1811,7 +1811,7 @@
       "date": "2025-02-22",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.17"
     },
     {
@@ -1821,7 +1821,7 @@
       "date": "2025-02-22",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.16"
     },
     {
@@ -1831,7 +1831,7 @@
       "date": "2025-02-19",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.15"
     },
     {
@@ -1841,7 +1841,7 @@
       "date": "2025-02-16",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.14"
     },
     {
@@ -1851,7 +1851,7 @@
       "date": "2025-02-16",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.13"
     },
     {
@@ -1861,7 +1861,7 @@
       "date": "2025-02-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.12"
     },
     {
@@ -1871,7 +1871,7 @@
       "date": "2025-02-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.11"
     },
     {
@@ -1881,7 +1881,7 @@
       "date": "2025-02-13",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.10"
     },
     {
@@ -1891,7 +1891,7 @@
       "date": "2025-02-12",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.9"
     },
     {
@@ -1901,7 +1901,7 @@
       "date": "2025-02-07",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.8"
     },
     {
@@ -1911,7 +1911,7 @@
       "date": "2025-02-04",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.7"
     },
     {
@@ -1921,7 +1921,7 @@
       "date": "2025-02-03",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.6"
     },
     {
@@ -1931,7 +1931,7 @@
       "date": "2025-01-31",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.5"
     },
     {
@@ -1941,7 +1941,7 @@
       "date": "2025-01-30",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.4"
     },
     {
@@ -1951,7 +1951,7 @@
       "date": "2025-01-30",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.3"
     },
     {
@@ -1961,7 +1961,7 @@
       "date": "2025-01-28",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.2"
     },
     {
@@ -1971,7 +1971,7 @@
       "date": "2025-01-26",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3.1"
     },
     {
@@ -1981,7 +1981,7 @@
       "date": "2025-01-25",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.3"
     },
     {
@@ -1991,7 +1991,7 @@
       "date": "2025-01-17",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.7"
     },
     {
@@ -2001,7 +2001,7 @@
       "date": "2025-01-16",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.6"
     },
     {
@@ -2011,7 +2011,7 @@
       "date": "2025-01-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.5"
     },
     {
@@ -2021,7 +2021,7 @@
       "date": "2025-01-15",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.4"
     },
     {
@@ -2031,7 +2031,7 @@
       "date": "2025-01-13",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.3"
     },
     {
@@ -2041,7 +2041,7 @@
       "date": "2025-01-12",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.2"
     },
     {
@@ -2051,7 +2051,7 @@
       "date": "2025-01-12",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2.1"
     },
     {
@@ -2061,7 +2061,7 @@
       "date": "2025-01-10",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/1.1.2"
     },
     {
@@ -2071,7 +2071,7 @@
       "date": "2025-01-08",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release18-fix"
     },
     {
@@ -2081,7 +2081,7 @@
       "date": "2025-01-08",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release18"
     },
     {
@@ -2091,7 +2091,7 @@
       "date": "2025-01-06",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release17"
     },
     {
@@ -2101,7 +2101,7 @@
       "date": "2025-01-04",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release16"
     },
     {
@@ -2111,7 +2111,7 @@
       "date": "2025-01-03",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release15"
     },
     {
@@ -2121,7 +2121,7 @@
       "date": "2024-12-31",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release14"
     },
     {
@@ -2131,7 +2131,7 @@
       "date": "2024-12-29",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release13"
     },
     {
@@ -2141,7 +2141,7 @@
       "date": "2024-12-27",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release12"
     },
     {
@@ -2151,7 +2151,7 @@
       "date": "2024-12-24",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release11"
     },
     {
@@ -2161,7 +2161,7 @@
       "date": "2024-12-23",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release10"
     },
     {
@@ -2171,7 +2171,7 @@
       "date": "2024-12-16",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release9"
     },
     {
@@ -2181,7 +2181,7 @@
       "date": "2024-12-02",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release8-fix"
     },
     {
@@ -2191,7 +2191,7 @@
       "date": "2024-12-02",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release8"
     },
     {
@@ -2201,7 +2201,7 @@
       "date": "2024-11-30",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release7"
     },
     {
@@ -2211,7 +2211,7 @@
       "date": "2024-11-27",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release6"
     },
     {
@@ -2221,7 +2221,7 @@
       "date": "2024-11-25",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release5-fix"
     },
     {
@@ -2231,7 +2231,7 @@
       "date": "2024-11-25",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release5"
     },
     {
@@ -2241,7 +2241,7 @@
       "date": "2024-11-23",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release4"
     },
     {
@@ -2251,7 +2251,7 @@
       "date": "2024-11-20",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release3"
     },
     {
@@ -2261,7 +2261,7 @@
       "date": "2024-11-14",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release2"
     },
     {
@@ -2271,7 +2271,7 @@
       "date": "2024-11-12",
       "tintColor": "#00AEEF",
       "notify": true,
-      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "appID": "com.example.piliplus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/release1"
     }
   ]
