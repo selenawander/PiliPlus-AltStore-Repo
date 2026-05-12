@@ -21,7 +21,7 @@
       "tintColor": "#00AEEF",
       "versions": [
         {
-          "version": "2.0.7.1",
+          "version": "2.0.7",
           "buildVersion": "4946",
           "date": "2026-05-10",
           "localizedDescription": "修复 #2002\r\n修复 #2020 by @My-Responsitories\r\n其他调整 #2032 by @My-Responsitories",
@@ -66,7 +66,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "2.0.3.2",
+          "version": "2.0.3",
           "buildVersion": "4841",
           "date": "2026-04-11",
           "localizedDescription": "优化视频旋转方向\r\n\r\n## 2.0.3.1\r\n修复视频返回按钮 @1883 by @HChaZZY\r\n\r\n## 2.0.3\r\n重写视频方向控制逻辑:\r\n解决 iOS 横屏从后台返回自动切换为竖屏问题\r\n解决 iOS 横屏关闭自动旋转自动切换为竖屏问题\r\n解决 Android 横屏返回键切换为竖屏自动切换回横屏问题\r\n\r\n支持悬浮底栏，默认关\r\n用户主页显示预约按钮\r\n添加 Android Shortcut\r\nAndroid 支持添加 UP 至桌面\r\n桌面端离线视频支持在本地文件夹打开\r\n\r\n修复 AppSign\r\n修复弹幕等级屏蔽无效 #1879 by @HChaZZY",
@@ -75,7 +75,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "2.0.3.1",
+          "version": "2.0.3",
           "buildVersion": "4836",
           "date": "2026-04-09",
           "localizedDescription": "修复视频返回按钮 @1883 by @HChaZZY\r\n\r\n## 2.0.3\r\n重写视频方向控制逻辑:\r\n解决 iOS 横屏从后台返回自动切换为竖屏问题\r\n解决 iOS 横屏关闭自动旋转自动切换为竖屏问题\r\n解决 Android 横屏返回键切换为竖屏自动切换回横屏问题\r\n\r\n支持悬浮底栏，默认关\r\n用户主页显示预约按钮\r\n添加 Android Shortcut\r\nAndroid 支持添加 UP 至桌面\r\n桌面端离线视频支持在本地文件夹打开\r\n\r\n修复 AppSign\r\n修复弹幕等级屏蔽无效 #1879 by @HChaZZY",
@@ -102,7 +102,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "2.0.1.1",
+          "version": "2.0.1",
           "buildVersion": "4775",
           "date": "2026-03-15",
           "localizedDescription": "修复自动全屏\r\n修复有音频流时才启用音量均衡 #1865 by @HeXis-YS\r\n其他\r\n\r\n## 2.0.1\r\n页面优化\r\n优化收起顶栏\r\n优化 #1864 by @My-Responsitories\r\n优化加载搜索历史 #1858 by @My-Responsitories\r\n\r\niOS 支持添加 UP 至桌面\r\n支持显示用户收藏集头图\r\n直播封面支持切换预览首帧\r\n支持显示`精选评论`标识 #1857 co-by @Dxee-e\r\n支持记录评论，默认开 by @bggRGjQaUbCoE @My-Responsitories\r\n\r\n修复自动全屏\r\n修复动态链接显示",
@@ -120,7 +120,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "2.0.0.1",
+          "version": "2.0.0",
           "buildVersion": "4721",
           "date": "2026-03-04",
           "localizedDescription": "修复部分动态富文本显示\r\n修复触摸板调节音量没有检查`滑动调节音量`属性\r\n修复 bug\r\n\r\n## 2.0.0\r\n听视频支持定时关闭\r\n听视频支持 Sponsor Block\r\nmacOS 响应 CMD+Q #1834 by @cnctem\r\nLinux 支持设置使用SSD #1839 by @just-a-pony\r\n添加播放顺序设置 #1830 by @My-Responsitories\r\n私信视频消息支持显示 UP 主赠言 #1849 by @barmxds6ch\r\n\r\n优化页面\r\n优化收起顶/底栏\r\n优化取消下拉刷新\r\n优化分享视频链接 #1835 co-by @gujial\r\n优化 #1829 #1831 #1832 #1840 #1846 #1854 by @My-Responsitories\r\n\r\n重构播放组件 #1848 by @My-Responsitories\r\n重构查看大图、长图 by @bggRGjQaUbCoE @My-Responsitories\r\n其他\r\n\r\n修复冷启动无法处理 URL Scheme \r\n修复校验 loudnorm 参数 #1838 by @Starfallan\r\n\r\nCI 调整 #1852 by @nlsdt \r\n其他",
@@ -147,7 +147,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.7",
+          "version": "1.1.5",
           "buildVersion": "4584",
           "date": "2026-01-28",
           "localizedDescription": "优化滑动\r\n其他",
@@ -156,7 +156,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.6",
+          "version": "1.1.5",
           "buildVersion": "4577",
           "date": "2026-01-26",
           "localizedDescription": "安卓端音频输出回退默认 opensles\r\n安卓端支持选择音频输出 #1811 by @My-Responsitories\r\n其他",
@@ -165,7 +165,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.5",
+          "version": "1.1.5",
           "buildVersion": "4573",
           "date": "2026-01-25",
           "localizedDescription": "组件/页面优化\r\n桌面端返回优化\r\n横向滑动优化，支持调节滑动阈值\r\n调整 #1806 #1810 by @My-Responsitories\r\n安卓音频输出优先使用 aaudio #1805 by @My-Responsitories\r\n\r\n修复 Web 端推荐\r\n修复 bug",
@@ -174,7 +174,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.4",
+          "version": "1.1.5",
           "buildVersion": "4543",
           "date": "2026-01-15",
           "localizedDescription": "支持长按/右键图片显示菜单，默认关\r\n调整 #1802 by @My-Responsitories\r\n支持界面缩放 #1800 co-by @sghhhh\r\nSponsorBlock Api 调整 #1797 by @zjns\r\n添加显示动态互动信息开关 #1798 co-by @sghhhh\r\n\r\n修复 #1799 co-by @KoishiMoe\r\n修复 Linux Task Icon #1800 by @sghhhh\r\n修复无法通过 AltStore/SideStore 安装 IPA #1803 by @KoishiMoe\r\n修复 bug",
@@ -183,7 +183,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.3",
+          "version": "1.1.5",
           "buildVersion": "4526",
           "date": "2026-01-07",
           "localizedDescription": "修复 #1795 by @sghhhh\r\n修复 bug",
@@ -192,7 +192,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.2",
+          "version": "1.1.5",
           "buildVersion": "4519",
           "date": "2026-01-03",
           "localizedDescription": "增加桌面端音量上限\r\n支持显示动态互动内容\r\nSuperChat 支持常驻显示\r\n投票面板支持查看关注的人的投票\r\n直播弹幕列表支持`@`、`举报`等操作\r\n新增视频画质ID #1794 by @Vixb1122\r\n私信分享支持多选 #1779 co-by @leset0ng\r\n缓存面板显示网络类型 #1781 by @My-Responsitories\r\n同步 [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) 片段类型 #1777 co-by @Vixb1122\r\n弹幕支持`固定转滚动`、`滚动弹幕固定速度` #1791 by @My-Responsitories\r\n\r\n页面优化\r\n优化专栏字体颜色\r\n优化 #1776 #1780 #1782 #1785 #1787 #1788 by @My-Responsitories\r\n\r\n修复 #1790 by @My-Responsitories\r\n修复 bug\r\n其他",
@@ -201,7 +201,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5.1",
+          "version": "1.1.5",
           "buildVersion": "4442",
           "date": "2025-12-10",
           "localizedDescription": "页面优化\r\n优化下载\r\n重构 Log #1764 by @My-Responsitories\r\n推荐页单独卡片宽度 #1771 by @LiPolymer\r\n调整 #1762 #1765 #1773 by @My-Responsitories\r\n导入设置/登录信息支持输入 #1772 by @My-Responsitories\r\n修复 bug",
@@ -219,7 +219,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre8",
+          "version": "1.1.5",
           "buildVersion": "4389",
           "date": "2025-11-23",
           "localizedDescription": "bug fixes",
@@ -228,7 +228,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre7",
+          "version": "1.1.5",
           "buildVersion": "4384",
           "date": "2025-11-22",
           "localizedDescription": "页面优化\r\n支持显示电量\r\n直播支持调整弹幕，查看播放信息\r\n代码优化 #1750 by @My-Responsitories\r\n空降助手优化/支持绑定 YTB 视频 #1751 by @My-Responsitories\r\n修复 bug\r\n其他",
@@ -237,7 +237,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre6",
+          "version": "1.1.5",
           "buildVersion": "4357",
           "date": "2025-11-17",
           "localizedDescription": "重构 CDN 功能 #1743 by @My-Responsitories\r\n离线播放支持媒体通知控制 #1748 co-by @staoran\r\n其他调整 #1742 #1745 #1746 #1747 by @My-Responsitories",
@@ -246,7 +246,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre5",
+          "version": "1.1.5",
           "buildVersion": "4348",
           "date": "2025-11-15",
           "localizedDescription": "fix wakelock",
@@ -255,7 +255,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre4",
+          "version": "1.1.5",
           "buildVersion": "4347",
           "date": "2025-11-14",
           "localizedDescription": "flutter 3.38\r\n修复 CDN 相关 #1739 by @iKirby\r\n支持编辑弹幕屏蔽规则，显示空降助手用户信息 #1738 by @My-Responsitories\r\n其他",
@@ -264,7 +264,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre3",
+          "version": "1.1.5",
           "buildVersion": "4337",
           "date": "2025-11-12",
           "localizedDescription": "支持 DLNA 投屏\r\n优化视频/弹幕缓存 #1737 by @My-Responsitories\r\n其他",
@@ -273,7 +273,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre2",
+          "version": "1.1.5",
           "buildVersion": "4336",
           "date": "2025-11-12",
           "localizedDescription": "支持 DLNA 投屏\r\n优化视频/弹幕缓存 #1737 by @My-Responsitories\r\n其他",
@@ -282,7 +282,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.5-pre",
+          "version": "1.1.5",
           "buildVersion": "4328",
           "date": "2025-11-10",
           "localizedDescription": "支持显示投票图片\r\n支持离线缓存/播放\r\n支持加载本地字幕文件\r\n亮度调节支持调节系统亮度\r\n\r\n优化投票选项\r\n优化 Windows Alt 键平移视频画面\r\n\r\n修复动态解析\r\n修复 bug\r\n\r\n其他",
@@ -291,7 +291,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.4.17",
+          "version": "1.1.4",
           "buildVersion": "4306",
           "date": "2025-10-28",
           "localizedDescription": "bug fixes",
@@ -300,7 +300,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.4.16",
+          "version": "1.1.4",
           "buildVersion": "4296",
           "date": "2025-10-27",
           "localizedDescription": "修复 #1641 #1712 #1716\r\n修复 #1696 by @My-Responsitories\r\n调整 #1697 #1706 by @My-Responsitories\r\n打包 Linux AppImage #1575 by @Axiaobo7788\r\n视频菜单查看 AI 总结 #1666 #1698 by @My-Responsitories",
@@ -309,7 +309,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.4.15",
+          "version": "1.1.4",
           "buildVersion": "4285",
           "date": "2025-10-24",
           "localizedDescription": "页面优化\r\n修复 #1680 #1684",
@@ -318,7 +318,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.4.14",
+          "version": "1.1.4",
           "buildVersion": "4282",
           "date": "2025-10-21",
           "localizedDescription": "动态支持`查看更多` #1629\r\n首页直播添加赛事入口 #1628\r\n音频播放支持切换排序方式 #1636\r\n音频播放支持获取合集列表、切换分P\r\n\r\n修复 #1616\r\n修复 #1648 co-by @My-Responsitories",
@@ -327,7 +327,7 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.1.4.13",
+          "version": "1.1.4",
           "buildVersion": "4266",
           "date": "2025-10-19",
           "localizedDescription": "优化 #1630\r\n听音频支持媒体通知控制 #1635\r\n显示弹幕点赞数 #1640 by @My-Responsitories\r\n支持弹幕空降功能 #1603 by @My-Responsitories\r\n添加 Linux Arm64 构建测试 #1610 by @Axiaobo7788\r\n\r\n修复 #1613 #1615\r\n修复高级弹幕 #1619 by @My-Responsitories",
