@@ -28,7 +28,7 @@ REPO_WEBSITE = "https://github.com/bebound/PiliPlus-AltStore-Repo"
 REPO_TINT_COLOR = "#00AEEF"
 
 APP_NAME = "PiliPlus"
-APP_BUNDLE_ID = "com.bggRGjQaUbCoE.PiliPlus"
+APP_BUNDLE_ID = "com.example.piliplus"
 APP_DEVELOPER = "bggRGjQaUbCoE"
 APP_SUBTITLE = "Latest PiliPlus release"
 APP_DESCRIPTION = "PiliPlus iOS app builds from GitHub releases"
